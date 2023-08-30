@@ -10,6 +10,7 @@ class PluginNames:
     TEST_DATA_FETCHER = "gwf-default.test-data-fetcher"
     TILE_LAYER = "gwf-default.tile-layer"
     GEOJSON_LAYER = "gwf-default.geojson-layer"
+    CONTOUR_LAYER = "gwf-default.contour-layer"
     LEGEND = "gwf-default.legend"
     DATA_CONTROL = "gwf-default.data-control"
     METADATA = "gwf-default.metadata"
@@ -25,6 +26,7 @@ _RECOMMENDED_PLUGIN_IMPORTS = {
     PluginNames.TEST_DATA_FETCHER: f"{_DEFAULT_PLUGIN_PATH}/test-data-fetcher.plugin.js",
     PluginNames.TILE_LAYER: f"{_DEFAULT_PLUGIN_PATH}/tile-layer.plugin.js",
     PluginNames.GEOJSON_LAYER: f"{_DEFAULT_PLUGIN_PATH}/geojson-layer.plugin.js",
+    PluginNames.CONTOUR_LAYER: f"{_DEFAULT_PLUGIN_PATH}/contour-layer.plugin.js",
     PluginNames.LEGEND: f"{_DEFAULT_PLUGIN_PATH}/legend.plugin.js",
     PluginNames.DATA_CONTROL: f"{_DEFAULT_PLUGIN_PATH}/data-control.plugin.js",
     PluginNames.METADATA: f"{_DEFAULT_PLUGIN_PATH}/metadata.plugin.js",
