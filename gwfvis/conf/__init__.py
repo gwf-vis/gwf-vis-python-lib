@@ -19,7 +19,7 @@ class PluginNames:
     LINE_CHART = "gwf-default.line-chart"
 
 
-_DEFAULT_PLUGIN_PATH = "https://vga-team.github.io/gwf-vis-default-plugins"
+_DEFAULT_PLUGIN_PATH = "https://vga-team.github.io/gwf-vis_default-plugins"
 _RECOMMENDED_PLUGIN_IMPORTS = {
     PluginNames.SQLITE_LOCAL_DATA_PROVIDER: f"{_DEFAULT_PLUGIN_PATH}/sqlite-local-data-provider.plugin.js",
     PluginNames.GWFVISDB_DATA_PROVIDER: f"{_DEFAULT_PLUGIN_PATH}/gwfvisdb-data-provider.plugin.js",
