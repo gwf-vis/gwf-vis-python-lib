@@ -11,6 +11,7 @@ class PluginNames:
     TILE_LAYER = "gwf-default.tile-layer"
     GEOJSON_LAYER = "gwf-default.geojson-layer"
     CONTOUR_LAYER = "gwf-default.contour-layer"
+    VECTOR_GRID_LAYER = "gwf-default.vector-grid-layer"
     LEGEND = "gwf-default.legend"
     DATA_CONTROL = "gwf-default.data-control"
     METADATA = "gwf-default.metadata"
