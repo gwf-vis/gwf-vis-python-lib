@@ -27,6 +27,7 @@ _RECOMMENDED_PLUGIN_IMPORTS = {
     PluginNames.TILE_LAYER: f"{_DEFAULT_PLUGIN_PATH}/tile-layer.plugin.js",
     PluginNames.GEOJSON_LAYER: f"{_DEFAULT_PLUGIN_PATH}/geojson-layer.plugin.js",
     PluginNames.CONTOUR_LAYER: f"{_DEFAULT_PLUGIN_PATH}/contour-layer.plugin.js",
+    PluginNames.VECTOR_GRID_LAYER: f"{_DEFAULT_PLUGIN_PATH}/vector-grid-layer.plugin.js",
     PluginNames.LEGEND: f"{_DEFAULT_PLUGIN_PATH}/legend.plugin.js",
     PluginNames.DATA_CONTROL: f"{_DEFAULT_PLUGIN_PATH}/data-control.plugin.js",
     PluginNames.METADATA: f"{_DEFAULT_PLUGIN_PATH}/metadata.plugin.js",
