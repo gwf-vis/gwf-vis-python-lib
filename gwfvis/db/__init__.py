@@ -4,7 +4,7 @@ import json
 import os
 import sqlite3
 from typing import Dict, Sequence
-from data_sturctures import Info, Location, Dimension, Variable, Value, Options
+from .data_sturctures import Info, Location, Dimension, Variable, Value, Options
 
 # %% helpers
 _NEW_LINE_CHARACTER = "\n"
