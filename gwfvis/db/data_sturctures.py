@@ -1,4 +1,5 @@
 # %% data structures
+from dataclasses import dataclass
 
 
 @dataclass

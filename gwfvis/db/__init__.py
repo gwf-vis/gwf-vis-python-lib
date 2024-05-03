@@ -1,5 +1,4 @@
 # %% imports
-from dataclasses import dataclass
 import json
 import os
 import sqlite3
