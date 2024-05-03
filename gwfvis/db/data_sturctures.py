@@ -1,6 +1,6 @@
 # %% data structures
 from dataclasses import dataclass
-
+from typing import Dict, Sequence
 
 @dataclass
 class Info:
